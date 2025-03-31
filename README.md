@@ -28,3 +28,6 @@ La metodología permitió identificar que las concentraciones de metales no son 
 - Python 3.x
 
 - Bibliotecas: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Rasterio, Datacube, Statsmodels.
+
+## Creditos y agradecimientos
+Este proyecto fue posible gracias al apoyo y colaboración de diversas personas. Agradecimiento especial al profesor Javier Lopatin por su guía y conocimientos durante el desarrollo de este trabajo. Asimismo, reconocimiento al profesor Raúl O'Ryan, a Osvaldo Ramirez y a José Tomás Morel.
