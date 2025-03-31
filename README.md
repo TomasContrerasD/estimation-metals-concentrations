@@ -26,8 +26,15 @@ La metodología permitió identificar que las concentraciones de metales no son 
 
 ## Requisitos
 - Python 3.x
-
-- Bibliotecas: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Rasterio, Datacube, Statsmodels.
+- Bibliotecas:
+  - ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+  - ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  - ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  - ![Matplotlib](https://img.shields.io/badge/Matplotlib-005C5C?style=for-the-badge&logo=matplotlib&logoColor=white)
+  - ![Seaborn](https://img.shields.io/badge/Seaborn-1F77B4?style=for-the-badge&logo=seaborn&logoColor=white)
+  - ![Rasterio](https://img.shields.io/badge/Rasterio-6F5F39?style=for-the-badge&logo=rasterio&logoColor=white)
+  - ![Datacube](https://img.shields.io/badge/Datacube-133D30?style=for-the-badge&logo=datacube&logoColor=white)
+  - ![Statsmodels](https://img.shields.io/badge/Statsmodels-1F77B4?style=for-the-badge&logo=statsmodels&logoColor=white)
 
 ## Creditos y agradecimientos
 Este proyecto fue posible gracias al apoyo y colaboración de diversas personas. Agradecimiento especial al profesor Javier Lopatin por su guía y conocimientos durante el desarrollo de este trabajo. Asimismo, reconocimiento al profesor Raúl O'Ryan, a Osvaldo Ramirez y a José Tomás Morel.
