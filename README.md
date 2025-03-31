@@ -24,3 +24,7 @@ El modelo Partial Least Square Regression (PLSR) mostró ser más efectivo para 
 
 La metodología permitió identificar que las concentraciones de metales no son determinantes en la precisión de las estimaciones, destacando la importancia de las correlaciones y los valores extremos en los modelos predictivos.
 
+## Requisitos
+- Python 3.x
+
+- Bibliotecas: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Rasterio, Datacube, Statsmodels.
