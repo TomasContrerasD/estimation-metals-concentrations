@@ -9,6 +9,8 @@ El objetivo principal de este proyecto es evaluar la viabilidad de usar imágene
 ## Metodología
 1) **Área de Estudio:** Región de Coquimbo, Chile, con un enfoque en depósitos de relaves activos, inactivos y abandonados.
 
+![Descripción de la imagen](URL_o_ruta_local_de_la_imagen)
+
 2) **Adquisición de Datos:**
 
   - Datos Satelitales: Imágenes multiespectrales obtenidas de satélites Landsat 8.
