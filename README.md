@@ -9,7 +9,7 @@ El objetivo principal de este proyecto es evaluar la viabilidad de usar imágene
 ## Metodología
 1) **Área de Estudio:** Región de Coquimbo, Chile, con un enfoque en depósitos de relaves activos, inactivos y abandonados.
 
-![Descripción de la imagen](images/Depósitos de relaves en Coquimbo.png)
+![Descripción de la imagen](images/tailings_in Coquimbo.png)
 
 2) **Adquisición de Datos:**
 
