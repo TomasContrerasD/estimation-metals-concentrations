@@ -19,4 +19,8 @@ El objetivo principal de este proyecto es evaluar la viabilidad de usar imágene
 
 4) **Modelado Predictivo:** Uso de modelos estadísticos como Partial Least-Squares Regression (PLSR), Generalized Linear Models (GLM), y Generalized Additive Models (GAM) para estimar las concentraciones de metales pesados.
 
-El modelo consiste en utilizar imágenes del satélite Landsat 8 para estimar las concentraciones de Cu, Ni, Zn, Co y As, en 228 depósitos de relaves en la región de Coquimbo, Chile. Para ello, se utilizan muestras tomadas por Sernageomin entre 2015 y 2017 como variables de respuesta. Luego, para estimar las concentraciones se utilizan 3 modelos: Partial Least Square Regression (PLSR), Generalized Linear Models (GLM) y Generalized Additive Models (GAM).
+## Resultados
+El modelo Partial Least Square Regression (PLSR) mostró ser más efectivo para la estimación de concentraciones de Zn, mientras que el Generalized Linear Models (GLM) mostró un rendimiento superior en la estimación de metales como Ni, Cu, y As.
+
+La metodología permitió identificar que las concentraciones de metales no son determinantes en la precisión de las estimaciones, destacando la importancia de las correlaciones y los valores extremos en los modelos predictivos.
+
