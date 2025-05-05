@@ -2,6 +2,7 @@
 
 ## Descripción
 Este repositorio contiene el código y los datos utilizados en la tesis de Magíster en Ciencia de Datos, titulada "Estimación de concentraciones de metales pesados en depósitos de relaves a partir de imágenes satelitales multiespectrales" realizada por Tomás Ignacio Contreras Delporte en la Universidad Adolfo Ibáñez. El trabajo se centra en la estimación de las concentraciones de metales pesados como Cu, Ni, Zn, Co y As en depósitos de relaves en la Región de Coquimbo, Chile, utilizando imágenes satelitales multiespectrales.
+
 Para una mejor experiencia, analizar informe previo al analisis del código.
 
 ## Objetivo
